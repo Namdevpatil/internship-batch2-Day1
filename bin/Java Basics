@@ -1,0 +1,31 @@
+Java Basics:
+	- comments: //, /*....*/, /**....*/ 
+		- comments are ignored by the "java compiler"
+		
+	- variables:
+		-to store some values
+		-types of variables
+				- global(class/static variables and instance/non-static variables)
+				- local(these variables are the part of the method/constructor/block)
+	- data types:
+		- to make you understand the compiler and JVM, 
+		  the what type of data/value we storing in variable. 
+		- data types are of two types:
+				- primitive data types: stores only one value in a variable
+						- int, float, char, boolean..etc
+				- non-primitive data types: stores multiple values in a variable
+						- arrays, strings, enum and classes
+	- keywords:
+		- these words are reserved words, for a specific operation in JRE.
+		- we are not using these words for multiple purpose.
+		
+	- expressions:
+			- Operands and Operators
+	- operators:
+			- unary: need one variable
+			- binary: two variable
+			- ternary: three variable
+			
+	- conditional statements
+	- conditional loops
+	- methods in java
